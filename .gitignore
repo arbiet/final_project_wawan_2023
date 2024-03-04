@@ -1,0 +1,17 @@
+# Virtual Environment
+env/
+
+# Compiled Python files
+__pycache__/
+
+# Python ENV related
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Visual Studio Code
+.vscode/
+

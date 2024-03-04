@@ -1,0 +1,601 @@
+nama_siswa,alamat_siswa,nilai_rapor,nilai_ujian_sekolah,nilai_ujian_nasional,aktivitas_ekstrakurikuler,prestasi_olimpiade,minat_jurusan,sekolah_asal,lokasi,predicted_sekolah_sma,probabilitas_diterima
+Thomas Mccall,"006 Stephen Turnpike
+Paulbury, MO 75107",0,9,25,2,2,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 2 Kota Kediri,0.14931252288515245
+Dr. Brittney Lewis,"22039 Olson Tunnel
+Halemouth, PR 98478",3,26,6,1,2,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.1882140191853801
+Kevin Jenkins,"859 Mora Falls Apt. 132
+Gomezshire, CO 18946",0,0,20,1,0,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 6 Kota Kediri,0.18254965139985946
+Todd Martin,"58967 Williamson Tunnel
+Patriciaborough, ND 81475",0,15,30,2,1,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 6 Kota Kediri,0.17317175403680735
+Crystal Cowan,"622 Lauren Point
+Simpsonfurt, MO 97471 (luar Kota Kediri)",1,28,34,0,3,2,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 8 Kota Kediri,0.22914718760776612
+Christina Foster,"761 Carol Inlet Suite 960
+Salinasside, ND 77472 (luar Kota Kediri)",1,5,35,1,2,0,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 8 Kota Kediri,0.18815823050954147
+Patricia Huang,"Unit 2081 Box 7164
+DPO AP 30823",2,4,23,0,3,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.18110368775311364
+Carrie Lewis MD,"32357 Tom Extension Apt. 429
+South Steventown, ND 18611",1,28,27,0,1,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.1732810303734881
+Cody Huff,"0425 Steve View Suite 911
+Amandaview, MH 30256",1,17,11,2,1,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 6 Kota Kediri,0.15651643559942757
+Brandy Marshall,"00241 Madden Union
+Ritterfort, AR 57518",3,19,8,1,3,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 3 Kota Kediri,0.16874977965830795
+Richard Johnson,"8147 Heather Meadows Apt. 974
+Stephanieville, GU 54406 (luar Kota Kediri)",3,23,25,0,2,0,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 8 Kota Kediri,0.15614571682101186
+Becky Rodriguez,"78708 Galloway Circle Suite 423
+Normanfurt, VI 98642",1,19,26,2,2,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.14497870388511788
+Chad King,"663 White Forges Suite 221
+Matthewfort, GA 66467",2,22,11,2,2,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 7 Kota Kediri,0.14994164497858894
+Danielle Garcia,"3918 Jeffery Plains Apt. 790
+Leeborough, MA 06217",3,4,23,2,3,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 2 Kota Kediri,0.1639933664604476
+Bradley Davis,"523 Melissa River
+Patrickmouth, MD 07369",1,10,0,0,2,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.1550638019383802
+April Patel,"14733 Hill Row Apt. 374
+Nicholaschester, MP 05570 (luar Kota Kediri)",0,23,15,0,0,0,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 4 Kota Kediri,0.19574011029585905
+Marvin Weaver,"70063 Gregory Highway
+Port Stevenfurt, RI 97594",2,18,35,2,0,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.1585613026751537
+Kenneth Tucker,"9088 Franklin Ports Suite 638
+South Jamesberg, RI 14714",1,20,30,1,3,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.23363404448417532
+Tonya Hatfield,"9190 Mendoza Course Suite 892
+New Julie, MH 35359 (luar Kota Kediri)",2,13,6,0,3,2,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 3 Kota Kediri,0.1837245540551601
+Kayla Lopez,"96290 Perez Bridge
+Port Taylor, MS 04626",0,4,14,1,2,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 6 Kota Kediri,0.1867658204212987
+Jessica Wall,"PSC 5521, Box 1209
+APO AP 58018",2,0,1,0,0,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 3 Kota Kediri,0.14547394588287313
+Michael Robinson,"8768 Laura Grove Suite 328
+Ericside, AR 38811",2,25,22,1,3,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.18523103747118808
+Jeffrey Simmons,"PSC 6351, Box 5515
+APO AP 24425",1,9,10,0,2,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 3 Kota Kediri,0.16523738476555136
+Paul Jones,"424 Sarah Radial
+Brownmouth, PW 14209",1,29,14,0,1,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.18495956110114892
+Lauren Hunt,"3933 Shawn Courts Apt. 268
+Lake Matthew, WA 87491 (luar Kota Kediri)",0,24,34,2,2,1,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 2 Kota Kediri,0.17206791730337406
+Tanner Zavala,"2489 Jennifer Estate
+Cantrellstad, GU 88242 (luar Kota Kediri)",3,9,15,1,3,2,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 3 Kota Kediri,0.16012732404058824
+Beth Benton,"2330 Bell Cape Apt. 846
+Buckchester, AZ 26350",3,4,23,0,2,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 5 Kota Kediri,0.1522136291498216
+Brian Ford,"2091 Robbins Landing Suite 084
+South Jadeburgh, UT 08442",1,11,14,1,0,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 6 Kota Kediri,0.1641685675680603
+John Juarez,"68328 Moore Ports Apt. 159
+Emilyhaven, MH 96682",2,13,21,2,2,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.17231863293955282
+Laura Hunt,"515 Davis Shoal Apt. 749
+Port Juanshire, GU 55265",2,7,4,1,3,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 3 Kota Kediri,0.15604772354096202
+Jaime Carter,"83524 Brooks Radial Suite 990
+East Anthonyburgh, GA 29215",2,27,31,0,2,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.1992574323134117
+Eric Gray,"38419 Christopher Corner Apt. 311
+Donnafort, FL 69782",2,24,31,1,0,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.23484989094829223
+Mr. Carl Taylor Jr.,"205 Matthew Skyway Suite 836
+West Connor, PR 55351",0,20,31,0,3,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 4 Kota Kediri,0.1702143492812222
+Jessica Jackson,"9678 Amanda Extensions Apt. 142
+West David, NC 60914",1,28,14,0,1,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.1793735638043374
+Bryan Scott,"181 Woods Ways
+Cohenbury, LA 07291 (luar Kota Kediri)",0,13,7,1,0,2,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 4 Kota Kediri,0.18856017020813068
+David Wiggins,"338 Sanders Heights
+Jodishire, NY 16911 (luar Kota Kediri)",0,25,35,0,2,0,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 8 Kota Kediri,0.20455471383619664
+Sharon Torres,"19950 Gonzalez Shore Apt. 018
+Karenfurt, AZ 54501",1,1,39,1,0,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 6 Kota Kediri,0.18555722327595203
+Nicole Lloyd,"41734 Marvin Ridge
+Rebekahburgh, WA 76644",1,22,10,2,1,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.16579834741450022
+Sue Ford,"652 Jamie Centers Apt. 322
+Jonesshire, WI 83315",1,22,16,2,2,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.19366704969526558
+Marcus Smith,"2502 Melissa Landing Apt. 750
+Andersonshire, NJ 34011",3,22,26,2,3,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.19865873946181162
+Rachel Johns,"00041 Crystal Plaza Suite 594
+Maureenbury, ID 23677 (luar Kota Kediri)",3,24,21,2,1,2,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 1 Kota Kediri,0.2330293660408899
+Katherine Martinez,"96395 Green Forges Apt. 992
+Valdezshire, KS 36532",3,20,40,2,0,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 2 Kota Kediri,0.15641544937545
+Leslie Simpson,"1226 Samantha Overpass Apt. 419
+Danielland, NY 50252",1,3,37,1,0,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 6 Kota Kediri,0.17577279284677366
+Charles Hughes,"6050 Aaron Junction
+Lake Jamesside, WI 69990",3,8,34,0,2,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 2 Kota Kediri,0.14833266374837276
+Gina Salas,"88750 Kyle Estates Suite 988
+New Dustinchester, WY 23001",2,10,3,0,3,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 3 Kota Kediri,0.1874907732641093
+Luis Moore,"USS Jones
+FPO AP 52060",1,15,22,1,2,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 6 Kota Kediri,0.1471514828586922
+Megan Weaver,"3896 Martinez Islands Suite 610
+Lake Michael, CO 89287",1,6,40,1,1,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 6 Kota Kediri,0.17421096560798047
+Robert Williams,"2379 Jones Fort
+Justinstad, MT 33324",3,8,6,0,3,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 2 Kota Kediri,0.17052696135668005
+Taylor Rose,"269 Janet Trace
+Abigailville, DC 56446 (luar Kota Kediri)",1,27,40,0,3,1,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 8 Kota Kediri,0.27957516104718283
+Alison Townsend,"99268 George Mills Apt. 561
+Laurashire, GU 90883",1,2,29,2,1,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 6 Kota Kediri,0.14539539667500062
+Michael Reed,"26881 Valerie Lake Suite 961
+Port Wayneberg, IN 70304",1,17,6,0,0,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 4 Kota Kediri,0.15294044216103989
+Calvin Stone,"935 Charles Street Suite 342
+Phillipsstad, MP 23250 (luar Kota Kediri)",1,19,23,0,0,0,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 8 Kota Kediri,0.16406883751196605
+Kimberly Oneal,"2253 Shaffer Gateway Suite 231
+Kellyfurt, PA 87036",1,15,23,2,2,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 6 Kota Kediri,0.1586754442795108
+Christopher Mccoy,"57232 Julie Lodge Suite 816
+Port Amanda, NE 59240",2,28,37,0,2,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.22162193399329835
+Jeffrey Smith,"46306 Connie Crossroad Suite 792
+South Michelle, SD 72176",2,1,40,1,3,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.18474525286421298
+Leon Nelson,"039 Butler Walk Apt. 130
+Smithburgh, AS 51756",3,29,12,1,2,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.21696372705271047
+Alexis Cabrera,"628 Kevin Islands
+West Carrie, ND 05659",2,18,17,1,3,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.1535475253668598
+Shelly Smith,"8458 Caitlin Extensions Apt. 839
+East Felicia, PW 16443",1,8,11,0,0,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 4 Kota Kediri,0.15740206076795168
+Eric Dixon,"1079 Gina Mills Suite 185
+North Arielville, LA 60323",1,19,12,2,0,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.1611600826018034
+Steven Hammond,"887 Spencer Corner Suite 241
+Port Andrestown, VA 05071",1,6,40,1,3,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.2344638657647848
+Valerie Contreras,"54822 Philip Burgs
+North Andrewville, MO 11922",3,29,8,1,3,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 2 Kota Kediri,0.172044580359464
+Jocelyn Garcia,"4056 Coleman Manor
+Brownton, NM 98194 (luar Kota Kediri)",2,1,37,0,1,0,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 8 Kota Kediri,0.19294079813046539
+Mrs. Rachel Kelley,"570 Perry Brooks Apt. 855
+North Heatherton, IL 39333 (luar Kota Kediri)",2,6,30,1,1,0,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 6 Kota Kediri,0.16968533759266213
+Megan Perez,"41728 Pineda Forge
+Lake Bryan, VI 17842",1,3,9,0,3,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.18884729503314165
+Christy Holt,"065 Christopher Shoal Apt. 093
+Heatherfurt, SC 37230",0,13,34,1,0,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 4 Kota Kediri,0.22159307778176512
+Samuel Glover,"Unit 1741 Box 0953
+DPO AA 53838",3,22,29,0,0,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 7 Kota Kediri,0.1496238520054611
+Elizabeth Dixon,"61202 Simmons Meadow Suite 071
+Lake Lisa, AK 61484",3,23,22,0,3,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 3 Kota Kediri,0.16786658964659984
+Ryan Steele,"8576 Harding Mission Apt. 284
+Elliottshire, OH 38341 (luar Kota Kediri)",0,24,14,2,0,0,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 4 Kota Kediri,0.15935841493434688
+Angela Mendez,"736 Scott Oval Apt. 448
+Berrychester, CT 52523",1,20,6,2,2,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 3 Kota Kediri,0.1670539433008544
+Ashley Cook,"167 Gordon Way Apt. 830
+Phillipsview, TX 50879",0,7,31,1,3,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 4 Kota Kediri,0.1743867962852038
+Lisa Eaton,"1639 Morgan Spurs
+Hayeshaven, FM 56234",0,26,24,2,2,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.16797074532901551
+Michele Davis,"5877 Barnett Stravenue
+Port Christopherborough, VA 81074 (luar Kota Kediri)",1,17,29,1,0,2,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 1 Kota Kediri,0.17459816744250786
+Kimberly Elliott,"10367 Fisher Court Suite 922
+Lake Johnmouth, AR 19978 (luar Kota Kediri)",1,19,10,1,3,0,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 8 Kota Kediri,0.17981121814650194
+Christine Ellis,"1608 Michael Pine
+Abigailview, MO 99673",1,18,22,1,1,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.15102845586350366
+Kenneth Torres,"53128 Sierra Pass Apt. 907
+Henryborough, VT 22111",0,10,32,1,3,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 4 Kota Kediri,0.17740497602411073
+Beth Black,"813 David Divide
+Ashleychester, ID 42267",1,14,30,0,2,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.17104676896940924
+James Patterson,"96843 Frances Port Suite 182
+Michaelbury, AK 36845",0,27,19,0,1,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 3 Kota Kediri,0.1491793705822711
+Gabriel Pineda,"12860 Steven Orchard Apt. 644
+West Dawn, DC 33174",0,12,17,2,0,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 4 Kota Kediri,0.18349672975105982
+Robert Ramirez,"5360 Casey Landing
+Mariaborough, SD 54723",1,14,40,2,2,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 2 Kota Kediri,0.18457907188430817
+Jessica Ross,"817 Smith Forest Suite 192
+Lake Amanda, CO 61401",1,5,11,0,3,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 3 Kota Kediri,0.1651574163947432
+Jessica Brown,"41551 Gary Circle Suite 658
+North Melvin, NY 47028",2,15,21,0,2,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.15873714748656334
+Ronald Dickerson,"69017 Peterson Prairie
+South Rachelside, HI 96297",3,26,5,2,1,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 7 Kota Kediri,0.19372899397756924
+Sally Burton,"803 Krause Square Suite 883
+Hinesburgh, SD 12096",1,16,2,0,3,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 3 Kota Kediri,0.1865873520771452
+Katherine Phillips,"6834 Sharon Brooks Suite 179
+Port Roy, DC 65942 (luar Kota Kediri)",0,30,38,0,1,0,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 8 Kota Kediri,0.19379205603223004
+Taylor Hernandez,"511 Bruce Knoll
+Lake Gregory, NC 37263",2,20,6,1,0,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.20950607881165703
+Jared Williams,"8043 Jennifer Ville Apt. 587
+East Brentport, PW 29687",3,27,32,1,0,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.2134285849783633
+Tracy Atkins,"0993 Daniel Locks Apt. 657
+Schaeferport, HI 20527",3,26,27,2,2,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 2 Kota Kediri,0.17155912665879536
+Olivia Rogers,"08296 Vaughan Meadows
+Taylorborough, OK 64711",2,24,24,0,0,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.18678227069850528
+Russell Evans,"15658 Deborah Inlet
+Greenville, MD 10314",2,17,3,1,0,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 7 Kota Kediri,0.16119128779683634
+Eric Maldonado,"052 Julia Trace
+Lake Sheribury, IA 50134",1,24,7,0,1,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 3 Kota Kediri,0.16279681031220464
+Maurice Harper,"7738 Mitchell Lake Apt. 464
+Port Courtneyhaven, IL 65813",2,18,36,2,2,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.1688989459143211
+Jill Randolph,"588 Shannon Harbors
+Olsonburgh, MH 39615",2,26,39,0,1,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.24469077685964064
+Felicia Prince,"14475 Nicholson Stream Apt. 355
+Kirkburgh, WI 74532",2,5,38,0,0,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.17606053599074203
+Mary Burns,"570 David Rest Suite 304
+Hutchinsonmouth, OK 91255 (luar Kota Kediri)",2,30,25,1,1,2,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 1 Kota Kediri,0.2777016780575985
+Yvette Martin,"48418 Lucas Views
+Rodneytown, MS 33441",2,16,37,0,1,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.2202703857790844
+Dale Alexander,"031 Edward River
+Port Christineview, SC 78502",2,11,16,1,0,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.1784102047572383
+Justin Reed,"5439 Walker Port Apt. 535
+West Michaelview, TN 51817 (luar Kota Kediri)",2,15,12,1,0,0,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 7 Kota Kediri,0.15892230862455925
+Natalie Brewer,"79322 Horton Course
+Hillstad, AK 23000",2,20,33,1,3,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.23603056413578813
+Amy Cooper,"40984 Ashley Village Apt. 804
+Lake Chad, NC 41652",1,12,34,1,3,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.17273486840898658
+Nicole Hall,"4452 Kelly Circle
+Port Alyssa, NM 40748",1,19,23,2,0,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 6 Kota Kediri,0.15108622713361575
+Jeffrey Salazar,"8138 Veronica Highway
+Dawnview, ID 88491",3,29,17,1,1,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 7 Kota Kediri,0.19103651690283383
+Michael Greene,"41076 Khan Squares Suite 786
+Wendytown, GU 48297",2,17,21,0,3,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.1930923447412283
+Vincent Marquez,"1845 Baker Ways
+New Danielmouth, KY 98807",3,14,5,0,0,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 7 Kota Kediri,0.17834133401539567
+Deanna Fields,"4117 Mendoza Valleys
+Port Brandonhaven, TN 19467 (luar Kota Kediri)",1,7,19,2,2,0,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 6 Kota Kediri,0.17310916177993052
+James English,"246 Brian Square
+Port Stacy, AS 89344 (luar Kota Kediri)",2,25,32,1,2,2,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 1 Kota Kediri,0.2160280482915917
+Sarah Austin,"88657 Frye Curve
+Michaelport, AZ 42699 (luar Kota Kediri)",2,4,13,2,3,1,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 3 Kota Kediri,0.15519047327261115
+Steven Torres,"3782 Joshua Estates Suite 921
+Chelseahaven, MT 35676",1,12,11,2,3,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 2 Kota Kediri,0.1630515637000845
+Mark Schroeder,"076 Moore Freeway Suite 034
+Sarahhaven, WY 07966",3,16,13,2,0,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 7 Kota Kediri,0.19630043769158395
+David Curtis,"725 Mcclure Station
+Scottside, MN 84120 (luar Kota Kediri)",2,15,35,1,1,0,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 8 Kota Kediri,0.17268077178688165
+Cheryl Morrison,"57383 Haney Rue
+Smithstad, UT 66536",2,18,7,2,3,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 3 Kota Kediri,0.17308754928684678
+Benjamin Hubbard,"374 Santiago Cape
+Lake Thomas, DE 82075",2,0,37,1,3,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 2 Kota Kediri,0.1668457144927435
+Andrew Holmes,"483 Mikayla Square
+West Joseph, IL 45860",2,9,21,2,3,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 2 Kota Kediri,0.15981607397423295
+Veronica Mcdowell,"847 Costa Turnpike Apt. 243
+Lake Joel, AS 33766 (luar Kota Kediri)",2,14,31,1,3,1,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 8 Kota Kediri,0.17921275718701415
+Scott Francis,"USS Hughes
+FPO AA 40168 (luar Kota Kediri)",2,13,11,2,2,1,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 3 Kota Kediri,0.1577668659167735
+Travis Lam,"469 Rocha Land
+East Rogermouth, IL 78719",2,11,11,0,1,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 3 Kota Kediri,0.1494816710730308
+Angela Weber,"9514 Caroline Walk Suite 658
+Gatesville, FM 70807",3,26,31,2,3,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.2118667435391767
+Anthony Long,"74104 Martinez Bypass Apt. 385
+Christophermouth, PA 96834",1,5,18,2,0,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 7 Kota Kediri,0.15857649269218788
+Kelly Edwards,"126 Elizabeth Turnpike Suite 010
+Joseberg, GU 36991",0,2,30,2,2,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 6 Kota Kediri,0.18477106937560503
+Julie Dudley,"58982 Ricardo Mission
+Michellefurt, RI 99614",1,2,8,0,3,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 3 Kota Kediri,0.15688236602543396
+Kendra Leonard,"926 Ian Rest
+New Aaron, SC 68881",3,4,13,2,3,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 2 Kota Kediri,0.17059185583160327
+Justin Clayton,"71200 Fisher Summit
+West Tyler, SD 32263",1,20,12,0,3,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.18287022744816406
+Stacey Davis,"6202 Sandra Square
+New Robertburgh, MT 28604",0,8,39,2,3,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 2 Kota Kediri,0.20256928901822335
+Margaret Escobar,"5049 Jo Brooks
+East Amy, MH 52864",1,21,9,2,1,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.15962754664916037
+Melissa Velasquez,"197 Huynh Green
+Mcguireshire, PW 98092",0,13,13,2,2,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 3 Kota Kediri,0.15681835114127565
+Justin Fisher,"789 John Alley Suite 611
+Barbaramouth, CT 24228 (luar Kota Kediri)",0,2,30,1,0,2,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 4 Kota Kediri,0.19053553089225927
+Kelly Green,"08846 Cheryl Lane
+Port Kirk, NC 99946",2,18,0,1,0,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 7 Kota Kediri,0.15767495175714485
+Kathryn Murphy,"6731 Miller Village Suite 534
+Stevensland, DC 78118 (luar Kota Kediri)",3,5,14,1,0,0,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 7 Kota Kediri,0.17067886715014022
+James Smith,"300 Anderson Junction
+Hardyhaven, OR 31121 (luar Kota Kediri)",1,7,32,2,2,0,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 6 Kota Kediri,0.1748477635372451
+Tonya Gray,"61537 Bobby Square Suite 816
+Zacharystad, MD 17571",3,1,17,0,0,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 5 Kota Kediri,0.1686608089906269
+Christopher Jacobs,"99440 Angela Parkways
+Louisshire, AR 93094",2,27,25,1,0,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.15887870919489125
+Donald Thornton,"Unit 8528 Box 5428
+DPO AE 07578",1,18,28,0,3,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.2232032929487742
+Tiffany Robertson,"8710 Underwood Harbors
+Owensville, IA 99008 (luar Kota Kediri)",1,4,37,2,0,1,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 6 Kota Kediri,0.17544044279234614
+Amber Garrison,"631 Horton Inlet
+Hernandezton, CA 14792",2,2,8,1,0,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 7 Kota Kediri,0.17238644595525088
+Matthew Christensen,"Unit 3897 Box 5190
+DPO AA 44255",2,27,33,0,1,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.2237454180242874
+William Jones,"410 Melissa Junction Suite 631
+North Jeremy, DE 65239",2,21,34,2,3,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.15806239601268773
+Christina Peters,"9203 Elliott Route Apt. 999
+Port Alexis, MO 77155",1,8,24,2,3,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 6 Kota Kediri,0.16257351944841306
+Kenneth Walker,"4246 Ryan Street Suite 816
+Matabury, IL 93672",0,11,27,1,1,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 4 Kota Kediri,0.18490201707067133
+Daniel Anderson,"52053 Sullivan Curve Apt. 075
+Stricklandfurt, GU 76008",1,18,25,2,2,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.1708901746645655
+Timothy Jennings,"038 Carter Hollow
+Lawrencefurt, MS 51328",3,13,13,2,2,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 2 Kota Kediri,0.16444105740848355
+Beth Barnes,"90715 Kaiser Curve
+Holmesstad, ND 30234 (luar Kota Kediri)",1,12,19,2,1,1,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 6 Kota Kediri,0.15524606656889367
+Joshua Lozano,"16736 Diaz Vista
+Lisaland, OR 89294 (luar Kota Kediri)",0,27,29,1,3,0,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 8 Kota Kediri,0.1828209633291892
+Linda Scott,"56654 Nicole Grove
+Port Shannon, OR 68901",2,18,14,0,3,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 3 Kota Kediri,0.17264870766160653
+Kristina Mays,"44447 Eric Field Apt. 392
+Dunlapview, OK 99370",2,25,30,0,1,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.17325858393750196
+Maria Spencer,"7524 Emily Crossing
+East Alexandriaton, WY 20060",2,22,8,0,2,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 3 Kota Kediri,0.17397253260996387
+Danny Morgan,"USNS Johnston
+FPO AP 53856 (luar Kota Kediri)",2,4,38,0,2,0,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 8 Kota Kediri,0.23142046090998894
+Christopher Fleming,"1797 Danny Lane
+North Rachaelview, NY 41587",0,8,37,0,0,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 4 Kota Kediri,0.22883851507477507
+Stephen Lee,"USCGC Bailey
+FPO AP 66712",3,21,40,0,3,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.22567833298711346
+Donald Ferguson,"7668 Michael Fords Suite 854
+Dominguezland, SD 55373",1,4,4,1,3,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 6 Kota Kediri,0.16875231389565404
+Alexander Morrow,"080 Garcia Groves Suite 886
+South Gina, KY 16544",0,8,24,2,0,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 4 Kota Kediri,0.17169685485197236
+Thomas Krueger,"390 Bradshaw Shoal
+West Glenda, GU 85180",2,1,12,2,3,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 2 Kota Kediri,0.16060048753014147
+Michael Malone,"Unit 6509 Box 4079
+DPO AE 89111",1,11,33,0,2,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.19581997254661185
+Jaclyn Marshall,"0823 Wolf Squares Suite 931
+Lake Jefferymouth, MA 09628",1,22,28,2,1,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.16444105037814782
+Amber Young,"310 Brett Shoal Apt. 179
+Samuelmouth, FM 79920",1,22,16,0,3,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.17158211488952976
+Michael Ramirez,"64302 John Course Apt. 669
+North Daniellemouth, NY 69998",1,10,39,0,0,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.19093345420738025
+Jacob Rodriguez,"3208 Angela Union
+Wilsonton, KS 26974",3,25,5,0,1,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 3 Kota Kediri,0.1818396307650265
+Maria Francis,"02552 Rivers Lake
+Reedborough, NH 44778",2,0,17,2,2,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 6 Kota Kediri,0.16295158799289255
+Adam Arroyo,"USCGC King
+FPO AP 12551 (luar Kota Kediri)",0,3,7,1,1,2,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 4 Kota Kediri,0.15650017793353924
+Stephanie Greene,"08503 Tony Ford
+East Saraville, ND 44157",2,10,1,2,1,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 3 Kota Kediri,0.16898195570141322
+Brian Morales,"86902 Lisa Way
+Smithview, OH 16987 (luar Kota Kediri)",3,14,33,1,2,0,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 2 Kota Kediri,0.16216737160030947
+Thomas Gonzales,"452 Shah Mill
+South Stuartmouth, UT 73352",2,4,39,1,3,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.16961195262729073
+Justin Mendoza,"29871 Alexander Roads Apt. 169
+Matthewhaven, KS 79162 (luar Kota Kediri)",1,22,2,0,3,1,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 3 Kota Kediri,0.1810457767684443
+Tiffany Miller,"USCGC Stone
+FPO AP 14297",0,3,26,1,0,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 4 Kota Kediri,0.19044087015470876
+Timothy Harris,"3309 Randy Crossroad Suite 664
+Whiteville, WI 45811",2,21,3,2,3,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 3 Kota Kediri,0.1829274984648031
+Wendy Dillon,"62275 Tyler Keys
+Morganburgh, CA 66581",2,3,15,2,0,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 6 Kota Kediri,0.1689298505745087
+Makayla Alvarez,"30977 Jamie Wells Suite 871
+East Brendaville, MP 54367",1,24,26,0,1,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.16443078068659664
+Joseph Nielsen,"397 Munoz Center
+Tanyaburgh, IA 86166",1,2,38,1,1,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 6 Kota Kediri,0.1502429177196115
+Michelle Roberts,"USS Hernandez
+FPO AA 73150",2,30,19,0,0,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 7 Kota Kediri,0.16157373937874345
+Paula Ayers,"778 Ricky Hollow
+East Rachel, MT 41140",2,9,2,0,2,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 3 Kota Kediri,0.17330303421508794
+Daniel Espinoza,"416 Goodwin Stream Suite 062
+New Leah, UT 08832",2,22,40,0,1,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.2417669067716239
+Joseph Jones,"1033 Christina Trail
+North Roseview, MO 24646",2,4,3,1,2,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 3 Kota Kediri,0.16398471590442265
+Amanda Brown,"98241 Henderson Mountain Suite 170
+New Eric, SC 99291",2,10,7,1,2,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 6 Kota Kediri,0.15856490685056568
+Kathleen Adams,"044 Sandoval Street
+West Lee, MN 48074",2,8,18,1,0,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 7 Kota Kediri,0.15325321300200034
+David Thompson,"3503 Pruitt Squares
+Mooreside, NE 55153 (luar Kota Kediri)",3,22,11,2,3,0,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 2 Kota Kediri,0.18197791135873778
+Ashley Gibson,"29098 Melissa Throughway
+Ronnieport, FL 52980",2,10,14,1,2,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 6 Kota Kediri,0.1469753429391774
+Melissa Suarez,"2349 Donna Island
+Amandastad, NC 14582",1,16,2,1,3,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 3 Kota Kediri,0.15835522920494013
+Joseph Barker,"048 Meyer Coves Suite 040
+Lopezfurt, AL 65991",2,1,14,2,2,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 6 Kota Kediri,0.16111002787426124
+Chad Anderson,"14248 Gina Centers Apt. 866
+Bellville, TX 19773",2,13,7,0,3,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 3 Kota Kediri,0.1699243440290401
+Crystal Jones,"72221 James Trail Suite 780
+Wellsberg, SD 48180",2,30,36,2,3,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.22089481767183866
+Tamara Payne,"59635 Reed Port Apt. 434
+Williamsberg, CO 20182",0,26,26,0,2,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 3 Kota Kediri,0.15642855782530424
+Angie Gonzales,"68708 Davis Burg
+Vancetown, SD 91784",1,3,15,2,1,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 7 Kota Kediri,0.15818292752133714
+Bradley Fisher,"141 Holland Drive
+Simonberg, NE 65489",2,27,14,0,2,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.19715725542278945
+Holly Carr,"Unit 0348 Box 0753
+DPO AP 91633",3,14,17,1,3,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 3 Kota Kediri,0.15067571520018722
+Jeremy Miller,"7626 Williamson Mall Suite 848
+West Zachary, AZ 07961 (luar Kota Kediri)",2,11,8,2,2,2,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 3 Kota Kediri,0.17062033688921632
+Francisco Mcintyre,"941 Desiree Loop Suite 778
+Hancockberg, MD 37827",2,23,23,0,3,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.18139204987531074
+Stanley Francis,"9939 Robert Mountains
+Lake Sophiashire, FM 70727",2,10,19,2,0,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 7 Kota Kediri,0.15904759999294982
+Bianca Murray,"15612 Kristen Prairie
+Markmouth, NY 05516",1,7,3,0,1,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 6 Kota Kediri,0.14832379393870618
+Joshua Reyes,"Unit 6491 Box 5412
+DPO AE 52231",1,7,30,2,1,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 6 Kota Kediri,0.13841677832183696
+Steven Foster,"62141 Mcbride Extensions
+Costaborough, NM 37967",0,24,13,1,1,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.1653525813428036
+Robert Cunningham,"6492 Sheila Lock Apt. 515
+West Jared, NV 53782",1,2,19,1,3,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.17265790466598074
+Kimberly Rowe,"5136 Thomas Burg Suite 136
+Lake Lisamouth, AZ 48860",0,29,0,1,3,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 2 Kota Kediri,0.20327164761297073
+James Ball,"74039 Jennifer Expressway Suite 751
+West Kathleenland, VT 44646 (luar Kota Kediri)",2,4,7,2,2,2,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 3 Kota Kediri,0.1700380139609349
+Casey Marquez,"96988 Barton Turnpike Apt. 210
+West Stephanieshire, NE 09525",0,22,22,0,1,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 4 Kota Kediri,0.17405283276517583
+Shannon Smith,"5169 Winters River
+Lake Tyler, UT 78628 (luar Kota Kediri)",2,29,5,1,2,2,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 1 Kota Kediri,0.2409514460995951
+James Williams,"49882 Schmidt Rest Suite 492
+Jamesborough, NJ 36018 (luar Kota Kediri)",2,2,12,1,1,2,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 7 Kota Kediri,0.1679354494356315
+Emily Henderson,"00029 Velez Shore Apt. 578
+South Juliechester, MP 93898",1,30,19,0,1,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.22679737487992319
+Omar Sheppard,"734 Taylor Mission
+Cooperton, IL 55904",2,25,0,2,2,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.19839939523672445
+Stacy Ramos,"345 Randall Circles
+Port Cameronmouth, NE 92653 (luar Kota Kediri)",2,15,16,0,0,0,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 4 Kota Kediri,0.14448340445652666
+Cheryl Ramos,"5429 Flowers Isle
+West Matthew, LA 56363",1,12,14,1,3,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 6 Kota Kediri,0.1456699797176193
+Kathy Adams,"3160 April Views Apt. 815
+Nicoleport, ME 97843",2,11,24,0,3,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.19364863830167764
+Timothy Moon,"USS Griffin
+FPO AE 06871",1,25,17,2,0,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.19629255846558832
+Jose Jones Jr.,"3487 Klein Court Suite 359
+Jamesburgh, CA 30794",0,24,5,1,0,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 4 Kota Kediri,0.16059220664095117
+Amanda Woods,"910 Schultz Gardens
+West Davidport, PR 84643",0,6,28,2,3,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 2 Kota Kediri,0.17145290866266394
+Juan Ruiz,"3196 Lisa Square Suite 465
+Johnsontown, CA 98710 (luar Kota Kediri)",2,29,18,0,0,0,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 7 Kota Kediri,0.16120381396608421
+Carrie Johnson,"908 Nicole Inlet
+Moralesville, UT 42511",1,22,17,2,2,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.16292730174743625
+Jermaine Blake,"Unit 2961 Box 9998
+DPO AA 53382",2,1,36,2,1,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 6 Kota Kediri,0.18080042548671219
+Patrick Schroeder,"2166 Norris Pines Suite 612
+Gonzalesborough, NH 06620 (luar Kota Kediri)",2,19,2,2,0,0,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 7 Kota Kediri,0.16787376214125815
+Mr. Travis Young,"9612 Harris Throughway Apt. 732
+East Sean, GA 78494 (luar Kota Kediri)",0,21,2,2,0,1,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 4 Kota Kediri,0.15785925643182228
+Brandon Farrell,"Unit 5593 Box 7562
+DPO AA 33989",1,29,26,0,1,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.1803694003527072
+Sandy Bennett,"62528 Craig Ranch Suite 856
+Port Alvin, ME 97421",0,24,8,0,0,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 4 Kota Kediri,0.1777054985772316
+Jose Glenn,"821 Jones Ridge Apt. 962
+Caitlinport, ID 03667",2,0,13,0,3,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 3 Kota Kediri,0.16908585671091914
+Jennifer Gutierrez,"1109 Hunt Villages Apt. 310
+Hallhaven, NE 94030",0,13,40,2,2,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 2 Kota Kediri,0.20686951329278694
+Heather Austin,"68995 Hall Mill Suite 181
+Gonzalezland, CA 89534",2,24,9,0,2,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.18343203044892506
+Nicholas Smith,"7601 Michael Club
+Larachester, PA 35939",3,24,10,2,2,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.21432866521337832
+Joseph Harvey DDS,"555 Lisa Rest Suite 623
+Joshuaburgh, NJ 85518",1,30,37,1,1,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.20643733486515042
+Ronnie Carter,"1743 Orr Causeway Suite 728
+Cherylland, SD 66380",0,18,37,1,3,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.1860273286075717
+Roy Mendoza,"61794 Smith Unions Suite 158
+West Jacob, AS 89163",2,21,29,1,2,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.20052146073336086
+Tammy Kim,"PSC 5655, Box 3401
+APO AP 10042",0,2,16,2,0,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 6 Kota Kediri,0.18716943174758066
+Stephanie Jackson,"7075 Booth Land
+East Stephaniehaven, GU 42989",2,20,0,2,1,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 2 Kota Kediri,0.16149432802058986
+Timothy Williams,"91324 Hughes Turnpike Apt. 219
+East Billy, SD 23246",1,20,0,1,2,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 2 Kota Kediri,0.15716426999113764
+Emily Martin,"0391 Megan Squares Suite 681
+New Emily, TX 13952",2,22,22,1,1,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.19152549808494312
+David Stafford,"397 James Shore Suite 914
+Bullockbury, MD 36135",2,19,1,1,0,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 7 Kota Kediri,0.16014771421927937
+Amanda Solis,"7552 John Knoll Suite 951
+Joneston, WV 77549",1,0,24,1,2,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 6 Kota Kediri,0.14479850407485784
+Carmen Morris DVM,"0305 Kristine Ports Apt. 943
+Dodsonfort, MA 83701 (luar Kota Kediri)",2,17,10,2,0,1,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 1 Kota Kediri,0.16958333700355582
+Alicia Cohen,"USNV Rowland
+FPO AP 52340",2,18,36,1,1,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.17733569405584698
+Emily Mitchell,"4897 Jo Cliff Suite 927
+North Alexishaven, PR 67174",3,9,24,0,3,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 3 Kota Kediri,0.15236429631502943
+Kevin Ali,"228 Burnett Pine Suite 160
+West Laurentown, MP 23819",2,10,27,1,0,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 6 Kota Kediri,0.1590943441037687
+Kenneth Pitts,"971 April Glens
+Kyletown, KY 79399",0,13,11,0,0,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 4 Kota Kediri,0.2059685620047076
+Stephanie Livingston,"693 Erik Rest
+Moralesborough, NC 23216 (luar Kota Kediri)",2,10,16,1,3,0,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 8 Kota Kediri,0.17335220850130728
+Laura Le,"22314 Alexis Fords Apt. 142
+Castromouth, WV 04820",1,6,13,0,2,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 3 Kota Kediri,0.1595319947497464
+Michael Moore,"55907 Michael Landing
+South Roger, TN 68899",1,9,1,2,1,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 6 Kota Kediri,0.16172939713419904
+Margaret Barrett,"4379 Harris Trail Apt. 450
+Ortegaside, GA 93067",0,28,20,1,3,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.16290868337183873
+Nicole Jefferson,"3405 Rhonda Creek Suite 165
+Lisafurt, PA 30865",1,15,21,1,2,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.15975123776428005
+Amy Hughes,"015 Arnold Brook
+Robertmouth, OH 46630",1,17,4,1,3,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 3 Kota Kediri,0.16773144594186926
+Lori Ryan,"7500 Armstrong Springs Apt. 052
+Maryberg, CA 45007",3,10,17,0,1,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 7 Kota Kediri,0.15494970984931195
+Sherry Donaldson,"23898 Robert Stream Apt. 789
+South Joanchester, MN 98525",2,2,0,0,2,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 2 Kota Kediri,0.16688215526599498
+Anthony Williams,"6324 Murray Inlet
+Wongton, VA 19774",2,21,11,1,2,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.1493807389793552
+Chase Washington,"3297 Rosales Via Suite 813
+Lake Brittany, WV 98334 (luar Kota Kediri)",1,8,13,1,0,1,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 6 Kota Kediri,0.15913422300939453
+Deanna Hahn,"561 Brenda Station
+Richardston, OR 88226",1,27,33,2,3,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.18940116517291633
+Mitchell Hines,"4138 Julie Turnpike
+Gonzalesborough, KS 72966",2,30,6,1,0,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.2751788033568871
+Sophia Morrison,"201 Smith Fields
+South Danieltown, TN 88869 (luar Kota Kediri)",2,11,23,0,1,2,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 1 Kota Kediri,0.15102708518895575
+Melissa Taylor,"PSC 0589, Box 2113
+APO AP 69938 (luar Kota Kediri)",1,12,8,2,3,1,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 3 Kota Kediri,0.16028484303117194
+Meghan Parks,"20416 Williams Causeway
+Kristinport, VT 16209",1,29,26,1,1,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.24231106096770624
+Madison Smith,"Unit 9926 Box 2709
+DPO AP 11099 (luar Kota Kediri)",0,3,22,2,3,1,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 2 Kota Kediri,0.1728380563612939
+Daniel Shaw,"8865 Juan Shoals Suite 404
+New Ericaland, TX 84579",1,17,21,2,1,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.17773807251357585
+Angela Schultz,"11358 Meza Neck
+Campbellview, SD 40702",2,10,10,1,1,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 7 Kota Kediri,0.15505022187151513
+Stacey Allen,"USCGC Smith
+FPO AA 61022",0,6,24,1,2,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 4 Kota Kediri,0.15948031568986634
+Michelle Miller,"4982 Patton Crossroad Suite 181
+Annaview, PW 09400",2,13,31,2,3,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 2 Kota Kediri,0.15245682424993623
+Donald Dominguez,"15711 Wilson Fort Suite 054
+North Leah, LA 81881",0,18,31,2,3,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 2 Kota Kediri,0.18929110579111444
+Daniel Kelley,"711 Thomas Mount Suite 650
+Carlosborough, MD 20602",3,0,33,0,3,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 2 Kota Kediri,0.18779871868836465
+Kevin Rush,"164 Philip Throughway Suite 356
+Anthonyton, AR 93691 (luar Kota Kediri)",0,6,33,1,1,1,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 6 Kota Kediri,0.18152556758554844
+Jennifer Smith,"56109 Beth Parkway
+West Christopherberg, SD 48456",2,7,25,2,3,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 3 Kota Kediri,0.1487602404677095
+Ashley Pope,"3088 Mercedes Cliff
+Andreahaven, SD 32396",1,28,7,2,3,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 2 Kota Kediri,0.17551226114358776
+Susan Simmons,"75092 Vargas Inlet
+Port Jennifermouth, ND 72658",0,10,39,0,2,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 4 Kota Kediri,0.19342017880278634
+William Krueger,"68946 Scott Junction
+West Noahfurt, IL 06217",2,16,35,0,1,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.1544920417297012
+Benjamin Smith,"039 John Plains Suite 309
+Lake Monica, NC 62779",2,3,1,1,3,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 2 Kota Kediri,0.16299171474367843
+Patricia Kelly,"101 Martin Expressway Apt. 912
+East Markbury, MH 96881 (luar Kota Kediri)",3,9,32,1,3,2,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 2 Kota Kediri,0.15416296270055085
+Andre Woods,"93427 Lowery Ford Suite 567
+Rodneyview, WV 07694",2,10,31,0,3,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.21278279287679927
+Arthur Martin,"4553 Tucker Pike Apt. 941
+Lake Brittanyborough, MD 84223 (luar Kota Kediri)",3,17,29,1,2,1,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 1 Kota Kediri,0.150285643964735
+Michelle Dennis,"PSC 8037, Box 6640
+APO AA 24368",1,22,35,1,3,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.18691090546807296
+Phyllis Fleming,"140 Rodney Crossroad Apt. 089
+Vincentton, WV 48954",2,13,8,1,3,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 3 Kota Kediri,0.1635511739317909
+Deborah Price,"0505 Munoz Squares Suite 723
+West Bridgetton, MP 79310",0,30,33,0,1,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.14477532686933647
+Nicole Prince,"593 Cunningham Junction Suite 209
+Lake Mikefort, CO 81347",3,20,33,1,2,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.18571765824888323
+Sherry Taylor,"469 Clark Wall
+Lake Devin, AL 28166",2,21,9,0,0,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.16735344487311848
+Scott Meyers,"74736 Linda Key Apt. 326
+Port Michael, WY 20367",3,16,1,1,2,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 2 Kota Kediri,0.17215457481965188
+Dale Rodriguez,"PSC 3713, Box 2441
+APO AA 34035",1,27,12,0,2,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 3 Kota Kediri,0.16811856062253466
+Jennifer Mcguire,"661 Jerry Port
+North Dwayne, MA 80252",1,2,15,1,0,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 6 Kota Kediri,0.1698115500454417
+Tommy Hobbs,"24041 Mccarthy Valley
+New Victoriaton, IN 22517",3,18,15,0,1,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.17833819174162444
+Fred Powers,"877 Pennington Drives Apt. 971
+North Valerie, MD 57841",1,28,4,2,1,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.21734763524887488
+Aaron Smith,"171 Paul Loop
+West Natalie, MN 22373",3,17,31,1,1,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.18424621635460675
+Seth Todd,"51473 Gonzalez Loop
+North Shawnmouth, HI 72361",1,5,36,1,2,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.19078571505491143
+Michael White,"94741 Hernandez Streets
+South Matthew, MT 62547",1,10,16,1,3,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 6 Kota Kediri,0.1493501075129577
+Mario Wilson,"32800 Hayes Trail Apt. 215
+Port Elizabeth, MA 14976 (luar Kota Kediri)",3,24,17,0,0,0,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 7 Kota Kediri,0.1755741718470143
+Dana Taylor,"490 Patterson Highway
+North Courtney, VT 66640",2,1,39,1,3,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 8 Kota Kediri,0.18210192577723622
+Norman Davis,"8241 Wilson Port
+Lake Jenniferbury, NE 45584 (luar Kota Kediri)",3,21,33,1,1,0,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 2 Kota Kediri,0.1481561866157265
+Christina Johnson,"82811 Anthony Wells Suite 421
+Martinezhaven, KS 36661",0,2,33,1,3,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 2 Kota Kediri,0.18281775585094046
+Ryan Jacobs,"659 Jennifer Spring
+Rachelmouth, RI 48322",3,11,20,2,0,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 7 Kota Kediri,0.1869814192213908
+Donald Vasquez,"465 Banks River Suite 305
+North Jacobborough, MN 14689",1,27,20,2,2,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 2 Kota Kediri,0.14783213028991318
+Lauren Mccarty,"927 Petty Corners
+Nicholasburgh, WY 82930",1,23,35,2,3,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.16254212247124533
+Austin Jones,"USNV Cohen
+FPO AA 11080",3,9,27,2,3,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 2 Kota Kediri,0.16809289633773897
+Melissa Johnson DDS,"90467 Adams Path Apt. 643
+South Arthurmouth, FM 89508",3,18,25,2,2,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 2 Kota Kediri,0.16505359570893324
+Nicole Gutierrez,"2201 Valerie Expressway Apt. 978
+North Dennis, OR 35916",2,26,9,1,2,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.2317965361751387
+Debra Greene,"Unit 0410 Box 8995
+DPO AA 85222",3,25,26,2,2,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 2 Kota Kediri,0.1689967235139624
+Linda Mack,"0501 Archer Spurs Apt. 254
+Lake Albert, MI 65705 (luar Kota Kediri)",3,0,11,2,2,1,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 2 Kota Kediri,0.16573142789964307
+Rita Welch,"979 Boyd Manors Apt. 863
+Lake Cynthia, ME 15794",2,15,18,2,2,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 6 Kota Kediri,0.1489582472124143
+Brittany Hernandez,"5245 Jamie Corners Apt. 320
+Laneside, SC 69484",1,29,8,0,0,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 7 Kota Kediri,0.154121589571671
+Sylvia Ward,"PSC 3087, Box 3577
+APO AP 57945 (luar Kota Kediri)",1,9,29,0,3,0,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 8 Kota Kediri,0.2534341262034455
+Joseph Randall,"27903 Davis Keys
+Amyfurt, MN 07171",3,19,17,2,2,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.19564694422492387
+Beth Fletcher,"5647 Novak Wall Apt. 494
+Ashleyfort, MP 63018",3,10,0,1,0,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 7 Kota Kediri,0.17050829307107557
+Randy Mcdonald,"USS Frey
+FPO AP 37174",0,2,7,2,2,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 6 Kota Kediri,0.17949270881750953
+Allison Alvarez,"7355 Hayden Spring Suite 704
+New Deanchester, IA 36429",2,9,16,2,1,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 7 Kota Kediri,0.1578729666625804
+Zachary Dillon,"281 Karen Corner
+South Zachary, PR 21192",1,10,27,1,0,0,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 6 Kota Kediri,0.16711102666361052
+Sherry Woods,"6381 Sonya Squares
+Wrightberg, MS 21596 (luar Kota Kediri)",1,13,9,2,2,0,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 6 Kota Kediri,0.16215401142898533
+Chad Marshall,"760 Tracy Island Apt. 865
+East Ashley, LA 55141 (luar Kota Kediri)",3,19,38,0,1,1,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 2 Kota Kediri,0.14118401046840534
+Ashley Austin,"2811 Moore Park
+Port Williamview, MD 90073 (luar Kota Kediri)",2,21,23,2,2,0,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 2 Kota Kediri,0.1443339940055328
+Joseph Gomez,"905 Andrea Hill Apt. 512
+West Brookeland, WV 48780",1,25,36,1,0,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.1668818349108996
+Anthony Jefferson,"08324 Traci Meadows
+Christopherborough, OR 83043",0,19,10,0,2,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 3 Kota Kediri,0.16013267210136745
+Pamela Smith,"113 Charles Garden
+Wrightfort, OR 12924",3,14,27,2,1,1,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 7 Kota Kediri,0.1605197835907129
+Tara Park,"147 Ronald Ports Suite 336
+Port Richard, VT 20177",1,27,19,1,0,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.24463856038339396
+Michelle Bauer,"15873 Lewis River Suite 312
+Crossmouth, AZ 30904",3,23,27,0,2,2,SMP Negeri 1 Kediri,Dalam Kota Kediri,SMA 1 Kota Kediri,0.1904163068452012
+Steven Harris,"500 Jackson Islands Suite 674
+Lisaberg, GU 68113 (luar Kota Kediri)",2,12,2,0,1,0,SMP Negeri 1 Kediri,Luar Kota Kediri,SMA 7 Kota Kediri,0.13806441276242007
